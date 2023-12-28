@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935744333992",
+    "firebase_url": "https://pandatalks-2c970-default-rtdb.firebaseio.com",
+    "project_id": "pandatalks-2c970",
+    "storage_bucket": "pandatalks-2c970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935744333992:android:5555072e718b83eeeafa9d",
+        "android_client_info": {
+          "package_name": "com.example.panda_talks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkZ1qJzZZkqCjbmxPJ0JRh6-Sdv3gCkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
